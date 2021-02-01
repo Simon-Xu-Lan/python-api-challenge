@@ -67,6 +67,9 @@
   - Southern Hemisphere
     - rvalue is 0.22. The absolute value is less then 0.3
     - Cloudiness and Latitude has none or very weak correlation### Wind Speed (mph) vs. Latitude
+
+### Wind Speed (mph) vs. Latitude
+
 - plot
   ![Temperature (F) vs. Latitude Linear Regression](images/wind_lat_linear_regression.png)
 - Observation
@@ -76,3 +79,21 @@
   - Southern Hemisphere
     - rvalue is -0.14.
     - Wind speed and Latitude has none correlation
+
+# Part II - VacationPy
+
+## A heat map that displays the humidity for every city from Part I
+
+![humidity heat map](images/humidity_hit_map.png)
+
+## Adeal weather cities heat map
+
+![humidity heat map](images/ideal_weather_city_map_layer.png)
+
+## Ideal weather cities marker on heat map
+
+![hotel heat map](images/ideal_weather_marker_map.png)
+
+## Ideal weather heatmap with each pin containing the Hotel Name, City, and Country.
+
+![hotel heat map with pin](images/hotel_with_pin.png)
