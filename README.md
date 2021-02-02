@@ -6,27 +6,33 @@
 
 ### Temperature (F) vs. Latitude
 
+<!-- <img src="images/hotel_with_pin.png" alt="drawing" width="600"/> -->
+<!-- ![Temperature (F) vs. Latitude image](images/temp_lat_scatter.png) -->
+<!-- ![Humidity (%) vs. Latitude image](images/humidity_lat_scatter.png) -->
+<!-- ![Cloudiness (%) vs. Latitude image](images/cloudiness_lat_scatter.png) -->
+<!-- ![Wind Speed (mph) vs. Latitude](images/wind_lat_scatter.png) -->
+
 | Plot                                                               | Observation                                                                                                                                                                                                                                                               |
 | ------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![Temperature (F) vs. Latitude image](images/temp_lat_scatter.png) | 1. In north hemisphere, it is obvious that the temperature drop when latitude increase. <br /> 2. In South hemisphere, the chart doesn't show obvious relationship between temperature and latitude <br/>3. there are very less cities picked between latitude -40 ~ -80. |
+| <img src="images/temp_lat_scatter.png" alt="drawing" width="500"/> | 1. In north hemisphere, it is obvious that the temperature drop when latitude increase. <br /> 2. In South hemisphere, the chart doesn't show obvious relationship between temperature and latitude <br/>3. there are very less cities picked between latitude -40 ~ -80. |
 
 ### Humidity (%) vs. Latitude
 
-| Observation                                                    | Plot                                                                |
-| -------------------------------------------------------------- | ------------------------------------------------------------------- |
-| There isn't obvious relationship between humidity and latitude | ![Humidity (%) vs. Latitude image](images/humidity_lat_scatter.png) |
+| Observation                                                    | Plot                                                                   |
+| -------------------------------------------------------------- | ---------------------------------------------------------------------- |
+| There isn't obvious relationship between humidity and latitude | <img src="images/humidity_lat_scatter.png" alt="drawing" width="500"/> |
 
 ### Cloudiness (%) vs. Latitude
 
-| Plot                                                                    | Observation                                                      |
-| ----------------------------------------------------------------------- | ---------------------------------------------------------------- |
-| ![Cloudiness (%) vs. Latitude image](images/cloudiness_lat_scatter.png) | There isn't obvious relationship between cloudiness and latitude |
+| Plot                                                                     | Observation                                                      |
+| ------------------------------------------------------------------------ | ---------------------------------------------------------------- |
+| <img src="images/cloudiness_lat_scatter.png" alt="drawing" width="500"/> | There isn't obvious relationship between cloudiness and latitude |
 
 ### Wind Speed (mph) vs. Latitude
 
-| Observation                                                      | Plot                                                          |
-| ---------------------------------------------------------------- | ------------------------------------------------------------- |
-| There isn't obvious relationship between wind speed and latitude | ![Wind Speed (mph) vs. Latitude](images/wind_lat_scatter.png) |
+| Observation                                                      | Plot                                                                |
+| ---------------------------------------------------------------- | ------------------------------------------------------------------- |
+| There isn't obvious relationship between wind speed and latitude | <img src="images/wind_lat_scatter.png" alt="drawing" width="500" /> |
 
 ## Linear Regression
 
@@ -96,4 +102,4 @@
 
 ## Ideal weather heatmap with each pin containing the Hotel Name, City, and Country.
 
-![hotel heat map with pin](images/hotel_with_pin.png)
+<img src="images/hotel_with_pin.png" alt="drawing" width="600"/>
